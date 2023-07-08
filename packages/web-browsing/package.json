@@ -1,5 +1,5 @@
 {
-  "name": "@anse/plugin-web-browsing",
+  "name": "@anse-app/plugin-web-browsing",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -13,11 +13,10 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "devDependencies": {
-    "@anse/plugin-types": "workspace:^"
-  },
   "dependencies": {
-    "@anse/plugin-web-browsing": "^1.0.0",
     "@mozilla/readability": "^0.4.4"
+  },
+  "devDependencies": {
+    "@anse-app/plugin-types": "workspace:^"
   }
 }

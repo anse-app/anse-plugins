@@ -1,4 +1,4 @@
-import type { Plugin } from '@anse/plugin-types'
+import type { Plugin } from '@anse-app/plugin-types'
 import { handler } from './handler'
 
 const plugin: Plugin = {
